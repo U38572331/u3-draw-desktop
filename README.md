@@ -15,7 +15,7 @@ This system implements rigorous software engineering and quantitative practices:
 * **Validation**: Integrated statistical verification and robustness checks.
 
 ## 3. Results & Visualizations
-> Data visualizations are integrated at the source code level.
+![Screenshot](screenshot.png)
 
 ---
 *Confidential proprietary research. All rights reserved.*
